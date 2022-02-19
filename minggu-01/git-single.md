@@ -75,4 +75,17 @@ Sebelum install Git di Windows, anda harus sudah mempunyai editor teks yang didu
 
 19. Untuk mencoba dari command prompt, masuk ke command prompt, setelah itu eksekusi "git --version" untuk melihat apakah sudah terinstall atau belum.
 
-![](image/latihan/015.png)
+![](image/latihan/019.png)
+
+
+Konfigurasi GIT
+
+Secara minimal, user harus memberitahu Git tentang username serta email yang digunakan setiap kali terjadi perubahan pada repo Git.
+Username serta email ini yang akan dimasukkan oleh Git ke catatan perubahan di repo.
+Di sistem operasi Linux atau sejanis (UNIX), konfigurasi ini nantinya akan disimpan di $HOME/.gitconfig.
+Untuk sistem operasi Windows, konfigurasi ini akan disimpan di C:\Document and Settings\NamaUser dengan nama file .gitconfig.
+Secara minimal, ada 2 hal yang perlu dikonfigurasi yaitu username dan email. Gunakan perintah berikut:
+
+![](image/latihan/020.png)
+
+Isian di atas harus disesuaikan dengan nama serta email yang digunakan untuk mendaftar di GitHub.
