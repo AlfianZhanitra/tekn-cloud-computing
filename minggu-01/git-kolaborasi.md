@@ -18,7 +18,9 @@ Setelah proses tersebut, clone ke komputer lokal
 
 Setelah itu, konfigurasikan repo lokal kontributor. Pada kondisi saat ini, di komputer lokal sudah terdapat repo playground yang berada pada direktori dengan nama yang sama.
 Untuk keperluan berkontribusi, ada 2 nama repo yang harus diatur:
+
 a. origin: menunjuk ke repo milik kontributor di GitHub, hasil dari fork.
+
 b. upstream: menunjuk ke repo milik upstream author (repo asli) di account oldstager. Repo origin sudah dituliskan konfigurasinya pada saat melakukan proses clone dari repo kontributor. Konfigurasi repo upstream harus dibuat.
 
 ![](image/tugas/004.png)
