@@ -45,6 +45,19 @@ Membuat Perubahan di Repo Lokal Sebelum melakukan perubahan, pastikan:
 ![](image/tugas/006.png)
 
 4. Lakukan perubahan-perubahan, setelah itu push ke origin (milik kontributor)
+
+![](image/tugas/007.png)
+
+![](image/tugas/008.png)
+
+![](image/tugas/009.png)
+
+![](image/tugas/010.png)
+
+![](image/tugas/011.png)
+
+![](image/tugas/012.png)
+
 Setelah itu, buka halaman Web dari repo kontributor. Pada halaman tersebut akan ditampilkan isi yang kita push. Pilih Compare and pull request, kemudian isikan deskripsi PR dan klik pada Create pull request.
 
 Pada repo upstream author, muncul angka 1 (artinya jumlahnya 1) pada Pull requests di bagian atas.
