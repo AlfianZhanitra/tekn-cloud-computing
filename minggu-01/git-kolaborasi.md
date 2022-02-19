@@ -16,11 +16,16 @@ Setelah proses tersebut, clone ke komputer lokal
 
 ![](image/tugas/003.png)
 
-Setelah itu, konfigurasikan repo lokal kontributor. Pada kondisi saat ini, di komputer lokal sudah terdapat repo playground yang berada pada direktori dengan nama yang sama. Untuk
-keperluan berkontribusi, ada 2 nama repo yang harus diatur:
+Setelah itu, konfigurasikan repo lokal kontributor. Pada kondisi saat ini, di komputer lokal sudah terdapat repo playground yang berada pada direktori dengan nama yang sama.
+Untuk keperluan berkontribusi, ada 2 nama repo yang harus diatur:
 a. origin: menunjuk ke repo milik kontributor di GitHub, hasil dari fork.
 b. upstream: menunjuk ke repo milik upstream author (repo asli) di account oldstager. Repo origin sudah dituliskan konfigurasinya pada saat melakukan proses clone dari repo kontributor. Konfigurasi repo upstream harus dibuat.
+
+![](image/tugas/004.png)
+
 Tambahkan remote upstream
+
+![](image/tugas/005.png)
 
 Mengirimkan Pull Request Setiap kali melakukan perubahan, kirim perubahan tersebut. Pengiriman ini disebut dengan Pull Request. Pada posisi ini, kontributor bisa mengirimkan kontribusi dengan cara mengirimkan pull request (PR) ke upstream author. Secara umum, langkahlangkahnya adalah sebagai berikut:
 a. Kontributor akan bekerja di repo lokal (create, update, delete isi)
