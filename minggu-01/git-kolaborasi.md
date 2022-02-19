@@ -7,6 +7,7 @@ Proses forking ini dijelaskan dengan langkah-langkah berikut:
 - Akses repo yang akan di fork:https://github.com/dwiendahsulistyowati/playground
 
 Pada sisi kanan atas, klik Fork
+
 ![](image/tugas/001.png)
 
 Setelah proses tersebut, clone ke komputer lokal
