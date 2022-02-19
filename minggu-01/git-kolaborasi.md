@@ -40,7 +40,11 @@ f. Jika disetujui dan di-merge ke repo master dari upstream author, sinkronkan r
 Membuat Perubahan di Repo Lokal Sebelum melakukan perubahan, pastikan:
 1. Sudah ada koordinasi secara manual tentang perubahan-perubahan yang akan dilakukan.
 2. Setelah melakukan perubahan-perubahan, pastikan bahwa isi repo lokal tersinkronisasi dengan repo dari upstream author.
-3. Lakukan perubahan-perubahan, setelah itu push ke origin (milik kontributor)
+3. Cara melakukan sinkronisasi:
+
+![](image/tugas/006.png)
+
+4. Lakukan perubahan-perubahan, setelah itu push ke origin (milik kontributor)
 Setelah itu, buka halaman Web dari repo kontributor. Pada halaman tersebut akan ditampilkan isi yang kita push. Pilih Compare and pull request, kemudian isikan deskripsi PR dan klik pada Create pull request.
 
 Pada repo upstream author, muncul angka 1 (artinya jumlahnya 1) pada Pull requests di bagian atas.
