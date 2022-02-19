@@ -1,7 +1,7 @@
 Latihan Instalasi GIT di windows
 Sebelum install Git di Windows, anda harus sudah mempunyai editor teks yang didukung oleh Windws. Editor yang bisa dipilih banyak, tetapi disarankan menggunakan Notepad++ atau Visual Studion Code atau Vim.
 
-1. Setelah selesai mendownload Git, lalu double click pada file yang telah di download. Kemudian muncul lisensi. Klik next untuk melanjutkan
+1. Setelah selesai mendownload Git, lalu double click pada file yang telah di download. Kemudian muncul lisensi. Klik next untuk melanjutkan.
 
 ![](image/latihan/001.png)
 
@@ -13,7 +13,7 @@ Sebelum install Git di Windows, anda harus sudah mempunyai editor teks yang didu
 
 ![](image/latihan/003.png)
 
-4. Mengisi shortcut untuk menu Start. Gunakan default (Git), ganti jika ingin mengganti - misalnya Git VCS
+4. Mengisi shortcut untuk menu Start. Gunakan default (Git), ganti jika ingin mengganti - misalnya Git VCS.
 
 ![](image/latihan/004.png)
 
@@ -61,7 +61,18 @@ Sebelum install Git di Windows, anda harus sudah mempunyai editor teks yang didu
 
 ![](image/latihan/015.png)
 
-16. Untuk menjalankan, dari Start menu, ketikkan "Git", akan muncul beberapa pilihan. Pilih "Git Bash" atau "Git GUI”
-17. Tampilan jika akan menggunakan "Git Bash"
-18. Tampilan jika akan menggunakan "Git GUI"
+16. Untuk menjalankan, dari Start menu, ketikkan "Git", akan muncul beberapa pilihan. Pilih "Git Bash" atau "Git GUI”.
+
+![](image/latihan/016.png)
+
+17. Tampilan jika akan menggunakan "Git Bash".
+
+![](image/latihan/017.png)
+
+18. Tampilan jika akan menggunakan "Git GUI".
+
+![](image/latihan/018.png)
+
 19. Untuk mencoba dari command prompt, masuk ke command prompt, setelah itu eksekusi "git --version" untuk melihat apakah sudah terinstall atau belum.
+
+![](image/latihan/015.png)
