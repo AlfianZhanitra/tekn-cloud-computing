@@ -10,7 +10,11 @@ Pada sisi kanan atas, klik Fork
 
 ![](image/tugas/001.png)
 
+![](image/tugas/002.png)
+
 Setelah proses tersebut, clone ke komputer lokal
+
+![](image/tugas/003.png)
 
 Setelah itu, konfigurasikan repo lokal kontributor. Pada kondisi saat ini, di komputer lokal sudah terdapat repo playground yang berada pada direktori dengan nama yang sama. Untuk
 keperluan berkontribusi, ada 2 nama repo yang harus diatur:
