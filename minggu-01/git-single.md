@@ -90,18 +90,3 @@ Secara minimal, ada 2 hal yang perlu dikonfigurasi yaitu username dan email. Gun
 ![](image/latihan/020.png)
 
 Isian di atas harus disesuaikan dengan nama serta email yang digunakan untuk mendaftar di GitHub.
-
-
-
-Mengelola Repo Sendiri di Account Sendiri
-
-Langkah-langkah Setiap orang yang telah mempunyai account di GitHub bisa membuat repo dengan.
-Secara umum, langkah-langkahnya adalah sebagai berikut:
-1)Buat repo kosong di GitHub, bisa public maupun private.
-2)Cloe repo kosong tersebut di komputer lokal
-3)Perintah berikutnya terkait dengan perubahan repo serta sinkronisasi antara GitHub dengan lokal.
-Membuat Repo Untuk membuat repo, gunakan langkah-langkan berikut:
-
-Klik tanda + pada bagian atas setelah login, pilih New repository
-
-![](image/latihan/021.png)
