@@ -25,10 +25,22 @@ Sebelum install Git di Windows, anda harus sudah mempunyai editor teks yang didu
 
 ![](image/latihan/006.png)
 
-7. Pilih OpenSSL untuk HTTPS. Git menggunakan https untuk akes ke repo GitHub atau repo-repo lain (GitLab, Assembla)
+7. Pilih OpenSSL untuk HTTPS. Git menggunakan https untuk akes ke repo GitHub atau repo-repo lain (GitLab, Assembla).
+
+![](image/latihan/007.png)
+
 8. Pilih pilihan pertama untuk konversi akhir baris (CR-LF).
-9. Pilih PuTTY untuk terminal yang digunakan untuk mengakses Git Bash
+
+![](image/latihan/008.png)
+
+9. Pilih PuTTY untuk terminal yang digunakan untuk mengakses Git Bash.
+
+![](image/latihan/009.png)
+
 10. Untuk opsi ekstra, pilih yang bagian atas.
+
+![](image/latihan/010.png)
+
 11. Pilih default untuk git pull, pilih yang default
 12. Pilih bantuan mandat, pilih Git credential Manager
 13. Uncheck opsi konfigurasi experimental
