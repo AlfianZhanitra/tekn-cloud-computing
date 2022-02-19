@@ -41,11 +41,26 @@ Sebelum install Git di Windows, anda harus sudah mempunyai editor teks yang didu
 
 ![](image/latihan/010.png)
 
-11. Pilih default untuk git pull, pilih yang default
-12. Pilih bantuan mandat, pilih Git credential Manager
-13. Uncheck opsi konfigurasi experimental
-14. Setelah itu proses instalasi akan dilakukan
-15. Jika selesai akan muncul dialog pemberitahuan. Klik pada Finish
+11. Pilih default untuk git pull, pilih yang default.
+
+![](image/latihan/011.png)
+
+12. Pilih bantuan mandat, pilih Git credential Manager.
+
+![](image/latihan/012.png)
+
+13. Uncheck opsi konfigurasi experimental.
+
+![](image/latihan/013.png)
+
+14. Setelah itu proses instalasi akan dilakukan.
+
+![](image/latihan/014.png)
+
+15. Jika selesai akan muncul dialog pemberitahuan. Klik pada Finish.
+
+![](image/latihan/015.png)
+
 16. Untuk menjalankan, dari Start menu, ketikkan "Git", akan muncul beberapa pilihan. Pilih "Git Bash" atau "Git GUI”
 17. Tampilan jika akan menggunakan "Git Bash"
 18. Tampilan jika akan menggunakan "Git GUI"
