@@ -65,6 +65,7 @@ Setelah itu, buka halaman Web dari repo kontributor. Pada halaman tersebut akan 
 ![](image/tugas/014.png)
 
 Pada repo upstream author, muncul angka 1 (artinya jumlahnya 1) pada Pull requests di bagian atas.
+
 g. Upstream author bisa menyetujui setelah melakukan review: klik pada Pull requests, akan muncul PR dengan message seperti yang ditulis oleh kontributor (Add: contributor). Klik pada PR tersebut, review kemudian klik Merge pull request diikuti dengan Confirm merge. Setelah itu, status akan berubah menjadi Merged.
 h. Sinkronkan semua repo (lokal maupun GitHub kontributor
 
