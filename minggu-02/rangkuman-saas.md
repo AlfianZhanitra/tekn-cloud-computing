@@ -2,8 +2,7 @@
 
 ## SaaS: Software as a Service
 
-Menjalankan aplikasi di cloud publik. Pengguna menggunakan aplikasi ini melalui Internet. Aplikasi ini dikelola oleh Penyedia Layanan, beberapa misalkan SalesForce, Microsoft (Office 365), Oracle, Google (Google Apps), dan
-lain-lain. Salesforce adalah perusahaan pertama yang mengubah dunia Saas.
+Menjalankan aplikasi di cloud publik. Pengguna menggunakan aplikasi ini melalui Internet. Aplikasi ini dikelola oleh Penyedia Layanan, beberapa misalkan SalesForce, Microsoft (Office 365), Oracle, Google (Google Apps), dan lain-lain. Salesforce adalah perusahaan pertama yang mengubah dunia Saas.
 
 ## Iaas: Infrastruktur sebagai Layanan
 
@@ -17,8 +16,7 @@ Amazon (AWS) adalah vendor terkemuka dalam menyediakan IaaS.
 
 Ini agak mirip dengan IaaS tetapi perbedaannya adalah:
 
-Pengembang menyediakan aplikasi yang dijalankan oleh platform.
-Mereka tidak secara langsung membuat VM.
+Pengembang menyediakan aplikasi yang dijalankan oleh platform. Mereka tidak secara langsung membuat VM.
 Anda akan berpikir bahwa PaaS sederhana dan itulah sebabnya banyak digunakan. Tapi ini tidak benar. IaaS 10 kali lebih populer dari PaaS. Pengembang ingin memiliki kontrol lebih besar atas sumber daya.
 
 
@@ -40,9 +38,9 @@ Dengan model ini, satu versi aplikasi, dengan konfigurasi tunggal digunakan untu
 Ada dua jenis utama SaaS:
 
 - SaaS Vertikal
-- Perangkat Lunak yang menjawab kebutuhan industri tertentu (misalnya, perangkat lunak untuk perawatan kesehatan, pertanian, real estat, industri keuangan)
+Perangkat Lunak yang menjawab kebutuhan industri tertentu (misalnya, perangkat lunak untuk perawatan kesehatan, pertanian, real estat, industri keuangan)
 - SaaS Horizontal
-- Produk yang berfokus pada kategori perangkat lunak (pemasaran, penjualan, alat pengembang, SDM) tetapi agnostik industri.
+Produk yang berfokus pada kategori perangkat lunak (pemasaran, penjualan, alat pengembang, SDM) tetapi agnostik industri.
 
 ## Manfaat SAAS:
 
@@ -69,24 +67,22 @@ SaaS juga merupakan salah satu pilar utama komputasi awan. Ledakan dalam komputa
 - Infrastruktur sebagai Layanan
 - Platform sebagai Layanan
 - Pembelajaran Mesin sebagai Layanan
-- ...dan banyak lagi
+- dan masih banyak lagi
 
 ## Mengapa Menggunakan Arsitektur SaaS?
-Infografio yang menunjukkan apa itu SaaS, PaaS, dan IaaS dan kegunaannya
-
-perangkat lunak telah didistribusikan ke pelanggan di berbagai saluran selama beberapa dekade terakhir. Saluran distribusi yang lebih baru di Software as a Service (atau SaaS).
+Infografio yang menunjukkan apa itu SaaS, PaaS, dan IaaS dan kegunaannya perangkat lunak telah didistribusikan ke pelanggan di berbagai saluran selama beberapa dekade terakhir. Saluran distribusi yang lebih baru di Software as a Service (atau SaaS).
 
 
 # Cara membangun aplikasi SaaS berbasis cloud
 
-21. Bangun untuk cloud
+1. Bangun untuk cloud
 
 Saat membangun aplikasi SaaS (global), kemungkinan besar Anda sedang membangunnya di cloud. Cloud memiliki banyak keuntungan – pikirkan skalabilitas – berbeda dengan lingkungan server lokal.
 
 Oleh karena itu posting ini, dan yang akan mengikuti fokus pada perangkat lunak yang dibangun dan direkayasa di cloud. Berikut cara membangun arsitektur SaaS berbasis cloud.
 
-
 2. Bagaimana cara memulai aplikasi SaaS Anda?
+
 3. Bahasa pemrograman yang mana?
 
 Membangun produk untuk cloud berarti membangun produk dengan bahasa pemrograman modern.
