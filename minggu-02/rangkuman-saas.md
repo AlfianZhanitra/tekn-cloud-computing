@@ -23,6 +23,7 @@ Anda akan berpikir bahwa PaaS sederhana dan itulah sebabnya banyak digunakan. Ta
 
 # SAAS (Software as a Service) Platform Architecture
 
+![](img/latihan/003.png)
 
 Perangkat lunak sebagai layanan adalah lisensi perangkat lunak dan model pengiriman di mana perangkat lunak dilisensikan secara berlangganan dan di-host secara terpusat. Pengguna dapat mengaksesnya dengan bantuan web browser.
 
