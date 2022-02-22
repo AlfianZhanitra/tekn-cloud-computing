@@ -20,3 +20,10 @@ Selain aplikasi ini gratis, yEd-Graph Editor juga menyediakan banyak sekali graf
 Google Drive adalah layanan penyimpanan berbasis cloud gratis yang memungkinkan pengguna untuk menyimpan dan mengakses file secara online. Layanan ini menyinkronkan dokumen, foto, dan lainnya yang tersimpan di semua perangkat pengguna, termasuk perangkat seluler, tablet, dan PC.
 Google Drive adalah layanan penyimpanan cloud, dan apa fungsi Google Drive yang utama adalah untuk melepaskan sebagian beban dari hard drive Anda. Penyimpanan
 cloud bekerja dengan mengunggah file ke server jarak jauhnya sendiri (atau “cloud”) dan mengosongkan ruang di komputer Anda. Ini akan membantu menyisakan lebih banyak ruang di perangkat Anda untuk hal-hal yang lebih penting, seperti aplikasi dan game besar.
+
+## Non Cloud : (SSD)
+
+![](img/tugas/004.png)
+
+SSD adalah singkatan dari Solid State Drive, yaitu sebuah piranti penyimpanan yang menggunakan flash memory untuk menyimpan datanya. Dari semua storage device yang telah muncul ternyata tidak semuanya mampu bertahan hingga sekarang. Bahkan biasanya setiap muncul yang baru maka yang lama tidak akan dipakai lagi.
+SSD mempunyai beberapa kelebihan, salah satunya adalah daya tahan baterai. SSD lebih sedikit dalam pemakaian baterai jika dibandingkan dengan HDD. Selanjutnya mengenai kecepatan booting pada sistem operasi, rata-rata booting untuk SSD sekitar 10-13 detik, sedangkan untuk HDD sekitar 30-40 detik.
