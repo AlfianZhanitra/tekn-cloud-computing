@@ -43,6 +43,8 @@ Perangkat Lunak yang menjawab kebutuhan industri tertentu (misalnya, perangkat l
 - SaaS Horizontal
 Produk yang berfokus pada kategori perangkat lunak (pemasaran, penjualan, alat pengembang, SDM) tetapi agnostik industri.
 
+![](img/latihan/002.png)
+
 ## Manfaat SAAS:
 
 Ini menawarkan peluang besar bagi organisasi dari semua ukuran untuk mengalihkan risiko akuisisi perangkat lunak, dan untuk memindahkan TI dari pusat biaya reaktif menjadi bagian perusahaan yang proaktif dan menghasilkan nilai. Secara tradisional, menyebarkan sistem perangkat lunak skala besar telah menjadi usaha besar. Menyebarkan sistem ini di perusahaan besar membutuhkan biaya lebih. Persyaratan waktu, staf, dan anggaran untuk penyebaran sebesar ini mewakili risiko yang signifikan bagi organisasi dengan ukuran berapa pun, dan sering kali menempatkan perangkat lunak tersebut di luar jangkauan organisasi yang lebih kecil yang jika tidak dapat memperoleh banyak manfaat darinya. kegunaan. Model pengiriman sesuai permintaan mengubah beberapa hal ini. Aplikasi SaaS tidak memerlukan penyebaran infrastruktur besar di lokasi klien. Ini menghilangkan atau secara drastis mengurangi komitmen sumber daya di muka.
