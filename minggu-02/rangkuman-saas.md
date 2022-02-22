@@ -95,7 +95,7 @@ Python adalah bahasa pemrograman yang banyak digunakan, dirancang untuk menekank
 
 Sumber Referensi :
 
-https://www.quora.com/What-is-the-difference-between-IaaS-SaaS-and-Paas
-https://hackernoon.com/saas-software-as-a-service-platform-architecture-757a432270f5
-https://usersnap.com/blog/cloud-based-saas-architecture-fundamentals/
-https://www.devteam.space/blog/saas-software-as-a-service-platform-architecture/
+- https://www.quora.com/What-is-the-difference-between-IaaS-SaaS-and-Paas
+- https://hackernoon.com/saas-software-as-a-service-platform-architecture-757a432270f5
+- https://usersnap.com/blog/cloud-based-saas-architecture-fundamentals/
+- https://www.devteam.space/blog/saas-software-as-a-service-platform-architecture/
