@@ -75,3 +75,5 @@ Selanjutnya kita buat seperti ini.
 ![](img/tugas/21.png)
 
 ![](img/tugas/22.png)
+
+![](img/tugas/23.png)
