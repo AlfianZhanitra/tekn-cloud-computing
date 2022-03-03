@@ -31,3 +31,13 @@ Selanjutnya masuk pada repo lokal yang baru di push dan kemudian melakukan initi
 ![](img/latihan/08.png)
 
 ![](img/latihan/09.png)
+
+
+
+Kemudian selanjutnya melakukan konfiguasi pada web scale dengan nilai konfigurasinya 1, apabila 1 maka app yang di create pada heroku dapat diakses, dan kemudian untuk membukanya dengan menggunakan perintah "heroku open".
+
+![](img/latihan/10.png)
+
+![](img/latihan/11.png)
+
+![](img/latihan/12.png)
