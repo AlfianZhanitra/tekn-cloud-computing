@@ -61,3 +61,9 @@ Selanjutnya menginstal pip dan mendeklarasikan file requirements.txt
 ![](img/latihan/17.png)
 
 ![](img/latihan/18.png)
+
+![](img/latihan/19.png)
+
+![](img/latihan/20.png)
+
+![](img/latihan/21.png)
