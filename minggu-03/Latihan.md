@@ -50,3 +50,7 @@ Sehingga yag harus digunakan yaitu web scale yang bernilai 1 untuk dapat mengaks
 ![](img/latihan/13.png)
 
 ![](img/latihan/14.png)
+
+![](img/latihan/15.png)
+
+![](img/latihan/16.png)
