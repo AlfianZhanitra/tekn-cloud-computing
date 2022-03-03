@@ -53,3 +53,8 @@ Sehingga hasil yang di tampilkan pada repo lokal yang di conning sebelumnya, dim
 ![](img/tugas/13.png)
 
 ![](img/tugas/14.png)
+
+
+Sehingga hasil yang ditapilkan pada halaman url app heroku kita, seperti pada gambar dibawah ini:
+
+![](img/tugas/15.png)
