@@ -54,3 +54,10 @@ Sehingga yag harus digunakan yaitu web scale yang bernilai 1 untuk dapat mengaks
 ![](img/latihan/15.png)
 
 ![](img/latihan/16.png)
+
+
+Selanjutnya menginstal pip dan mendeklarasikan file requirements.txt
+
+![](img/latihan/17.png)
+
+![](img/latihan/18.png)
