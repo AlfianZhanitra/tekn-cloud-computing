@@ -34,3 +34,18 @@ Dari perintah diatas apabila sudah mengisi perintah "heroku login", maka secara 
 ![](img/tugas/09.png)
 
 Sehingga hasil yang di tampilkan pada repo lokal yang di conning sebelumnya, dimana pada direktori vendor akan terdapat file autoload.php dari hasil update composer tersebut.
+
+
+5. Selanjutnya dari hasil update composer tersebut masih memerlukan direktori arlik11es dan didalamnya akan di install atau ditambahkan direktori cowsayphp, dan kemudian baru dilakukan update composernya lagi.
+
+![](img/tugas/10.png)
+
+
+6. Kemudian selanjutnya melakukan perubahan pada file index.php yang terdapat pada direktori web pada repo lokal hasil clonning sebelumnya.
+
+![](img/tugas/11.png)
+
+
+7. Dan selanjutnya dilakukan push pada app heroku kita
+
+![](img/tugas/12.png)
