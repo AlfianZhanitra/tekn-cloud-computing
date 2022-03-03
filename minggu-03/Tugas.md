@@ -25,3 +25,5 @@ Dari perintah diatas apabila sudah mengisi perintah "heroku login", maka secara 
 ![](img/tugas/06.png)
 
 ![](img/tugas/07.png)
+
+![](img/tugas/08.png)
