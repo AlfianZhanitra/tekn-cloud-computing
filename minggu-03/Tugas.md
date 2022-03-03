@@ -58,3 +58,10 @@ Sehingga hasil yang di tampilkan pada repo lokal yang di conning sebelumnya, dim
 Sehingga hasil yang ditapilkan pada halaman url app heroku kita, seperti pada gambar dibawah ini:
 
 ![](img/tugas/15.png)
+
+
+Selanjutnya kita buat seperti ini.
+
+![](img/tugas/16.png)
+
+![](img/tugas/17.png)
