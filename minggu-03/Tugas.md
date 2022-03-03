@@ -27,3 +27,10 @@ Dari perintah diatas apabila sudah mengisi perintah "heroku login", maka secara 
 ![](img/tugas/07.png)
 
 ![](img/tugas/08.png)
+
+
+4. Kemudian selanjutnya melakukan update composer, dari bash commmand git
+
+![](img/tugas/09.png)
+
+Sehingga hasil yang di tampilkan pada repo lokal yang di conning sebelumnya, dimana pada direktori vendor akan terdapat file autoload.php dari hasil update composer tersebut.
