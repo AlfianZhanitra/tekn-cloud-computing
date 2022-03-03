@@ -24,3 +24,10 @@ Git Clone
 Pada bagian ke-3 ini dilakukan proses clonning dari git heroku untuk mengambil repo "python-getting-started" ke bash lokal komputer.
 
 ![](img/latihan/07.png)
+
+
+Selanjutnya masuk pada repo lokal yang baru di push dan kemudian melakukan initialisasi repo lokal yang baru di clonning tersebut. Setelah melakukan initialisasi tersebut maka langkah selanjutnya melakukan remote ke app yag sudah di create sebelumnya pada akun heroku, ini beguna untuk bisa terhubung ke app pada heroku.
+
+![](img/latihan/08.png)
+
+![](img/latihan/09.png)
