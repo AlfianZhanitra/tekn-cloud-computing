@@ -49,3 +49,7 @@ Sehingga hasil yang di tampilkan pada repo lokal yang di conning sebelumnya, dim
 7. Dan selanjutnya dilakukan push pada app heroku kita
 
 ![](img/tugas/12.png)
+
+![](img/tugas/13.png)
+
+![](img/tugas/14.png)
