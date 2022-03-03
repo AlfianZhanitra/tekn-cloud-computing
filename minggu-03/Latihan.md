@@ -1,3 +1,3 @@
-##LATIHAN
+## LATIHAN
 
 Sign Up ke Hiroku
