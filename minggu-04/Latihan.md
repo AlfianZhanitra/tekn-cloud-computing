@@ -5,6 +5,7 @@
 1. Pada bagian yang pertama, kita akan melihat atau mengecek hak akses user atau pengguna.
 User atau pengguna akan melakukan hak akses penuh terhadap sistem ini.
 
+![](img/01.png)
 
 2. Lalu dilakukan proses clonning repo devstack dan kemudian masuk pada direktori devstack kemudian membuat file local.conf untuk melihat password untuk hak akses ke repo devstack.
 
