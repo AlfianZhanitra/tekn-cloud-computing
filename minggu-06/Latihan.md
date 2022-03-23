@@ -39,6 +39,8 @@ b) Buat database dan tabel di MySQL
 ![](img/07.png)
 
 
+
+
 ## B. Implementasi Program Go Untuk Membaca Data Pada MongoDB
 
 1. Download dirver mongodb
