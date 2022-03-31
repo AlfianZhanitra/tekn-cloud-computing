@@ -31,3 +31,33 @@ $ cd node-bulletin-board/bulletin-board-app
 ![](img/latihan/07.png)
 
 ![](img/latihan/08.png)
+
+//build image docker
+$ docker image build -t bulletinboard:1.0
+
+![](img/latihan/09.png)
+
+![](img/latihan/10.png)
+
+menjalankan container untuk melihat docker image nantinya secara local yakni pada localhost:8000
+
+4. Share image on Docker Hub
+
+![](img/latihan/11.png)
+
+Buat akun docker hub terlebih dahulu, jika sudah kita membuat repo baru dengan nama bulletinboard.
+
+![](img/latihan/12.png)
+
+//share image kita ke docker hub
+$docker image tag bulletinboard:1.0 soholeh/bulletinboard:1.0
+
+![](img/latihan/13.png)
+
+//push image kita ke docker hub
+$docker image push soholeh/bulletinboard:1.0
+
+
+Untuk melihat hasilnya kita dapat membuka tab baru dan isikan url dengan localhost:8000
+
+![](img/latihan/14.png)
