@@ -1,8 +1,7 @@
-## Minggu 01
+# Minggu 01
 
-# Latihan
+## Latihan
 [git-single.md](https://github.com/AlfianZhanitra/tekn-cloud-computing/blob/main/minggu-01/git-single.md)
 
-
-# Tugas
+## Tugas
 [git-kolaborasi.md](https://github.com/AlfianZhanitra/tekn-cloud-computing/blob/main/minggu-01/git-kolaborasi.md)
