@@ -67,8 +67,6 @@ Masukkan perintah $ docker-compose up.
 
 ![](img/13.png)
 
-[docker-compose.yml](https://github.com/AlfianZhanitra/tekn-cloud-computing/blob/main/minggu-08/docker-compose.yml)
-
 12. Cek pada browser.
 
 ![](img/14.png)
