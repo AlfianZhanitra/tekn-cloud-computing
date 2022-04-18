@@ -12,17 +12,25 @@ Jalankan perintah $ code pada git bash seperti gambar diatas untuk membuka code 
 
 ![](img/02.png)
 
+[app.py](https://github.com/AlfianZhanitra/tekn-cloud-computing/blob/main/minggu-08/app.py)
+
 3. Membuat file requirements.txt
 
 ![](img/03.png)
+
+[requirements.txt](https://github.com/AlfianZhanitra/tekn-cloud-computing/blob/main/minggu-08/requirements.txt)
 
 4. Membuat Dockerfile.
 
 ![](img/04.png)
 
+[Dockerfile](https://github.com/AlfianZhanitra/tekn-cloud-computing/blob/main/minggu-08/Dockerfile.dockerfile)
+
 5. Define services pada Compose file.
 
 ![](img/05.png)
+
+[docker-compose.yml](https://github.com/AlfianZhanitra/tekn-cloud-computing/blob/main/minggu-08/docker-compose.yml)
 
 6. Menjalankan perintah docker-compose up.
 
@@ -54,6 +62,8 @@ Masukkan perintah $ docker-compose up.
 11. Re-build and run the app with Compose dengan menjalankan perintah docker-compose up.
 
 ![](img/13.png)
+
+[docker-compose.yml](https://github.com/AlfianZhanitra/tekn-cloud-computing/blob/main/minggu-08/docker-compose.yml)
 
 12. Cek pada browser.
 
