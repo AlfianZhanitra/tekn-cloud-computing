@@ -61,6 +61,8 @@ Masukkan perintah $ docker-compose up.
 
 ![](img/12.png)
 
+[docker-compose.yml](https://github.com/AlfianZhanitra/tekn-cloud-computing/blob/main/minggu-08/docker-compose.yml)
+
 11. Re-build and run the app with Compose dengan menjalankan perintah docker-compose up.
 
 ![](img/13.png)
